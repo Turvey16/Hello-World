@@ -1,2 +1,2 @@
 # Hello-World
-My first repository for my Hello World script
+My first repository for my Hello World script somewhat disjointed.
